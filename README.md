@@ -1,6 +1,6 @@
 # Projects
 
-# Official Repository for Manipal Information Security Team :
+# Official Repository for Manipal Information Security Team:
 
 - - - -
 ## Description : 
